@@ -1,0 +1,12 @@
+Tue Aug  9 16:58:45 2022, True
+92620, Midgrade, Credit Only
+['76', '$5.23', '4760 Irvine BlvdIrvine, CA']
+['Shell', '$5.69', '4162 Trabuco RdIrvine, CA']
+['ARCO', '$5.69', '14111 Jeffrey RdIrvine, CA']
+['Chevron', '---', '6320 Irvine BlvdIrvine, CA']
+[]
+[]
+[]
+[]
+[]
+[]
